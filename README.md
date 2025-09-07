@@ -7,3 +7,5 @@ This is a simple webpack project setup aim for those who want to start a vanilla
 3. Install dependency: ```npm install```
 4. Run project: ```npm run start```
 5. Now start editing your index.html & style.css
+#gjohds de picture takin a?ok pray an packin bags ah coulda talk >
+>>
